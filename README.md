@@ -1,9 +1,7 @@
 # EX NO: Cloud-account-set-up-and-services
-~~~
-Name :M.PAVITHRA
+# Name :M.GOKUL ANAND
+# Reg no: 212223040049
 
-Reg no: 212222100032
-~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
 
